@@ -2,7 +2,7 @@
 <h3 align = center> A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls </h3>
 
 <p align="center">
-<a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
+<a href="https://python.org"><img src="https://telegra.ph/file/d969fba3582a4dc43697e.jpg"></a>
 <br>
     <img src="https://img.shields.io/github/license/AsmSafone/MusicPlayer?style=for-the-badge" alt="LICENSE">
     <img src="https://img.shields.io/github/contributors/AsmSafone/MusicPlayer?style=for-the-badge" alt="Contributors">
@@ -161,10 +161,6 @@ For any kind of help join [our support group](https://t.me/prem_nagarii) or rais
 ## ✨ <a name="credits"></a>Credits
 
 - [Me](https://t.me/kiraxophunter) 😎
-- [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram) ❤️
-- [Laky-64](https://github.com/Laky-64) for [Py-TgCalls](https://github.com/pytgcalls/pytgcalls) ❤️
-- And Thanks To All [Contributors](https://github.com/AsmSafone/MusicPlayer/graphs/contributors)! ❤️
-
 ## 📃 <a name="license"></a>License
 
 Music Player is licenced under the GNU Affero General Public License v3.0.
