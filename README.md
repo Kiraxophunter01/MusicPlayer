@@ -2,7 +2,7 @@
 <h3 align = center> A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls </h3>
 
 <p align="center">
-<a href="https://python.org"><img src="https://telegra.ph/file/d969fba3582a4dc43697e.jpg"></a>
+<a href=""><img src="https://telegra.ph/file/d969fba3582a4dc43697e.jpg"></a>
 <br>
     <img src="https://img.shields.io/github/license/AsmSafone/MusicPlayer?style=for-the-badge" alt="LICENSE">
     <img src="https://img.shields.io/github/contributors/AsmSafone/MusicPlayer?style=for-the-badge" alt="Contributors">
